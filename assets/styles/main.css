@@ -82,3 +82,17 @@ html {
 .mainLayout{
   background-color: #061115;
 }
+.myresult {
+  font-weight: 300;
+  font-size: 28px;
+  color: #fdfdfd  ;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
+.myerror{
+  font-weight: 300;
+  font-size: 28px;
+  color: #ff2a2a  ;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}

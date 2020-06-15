@@ -7,7 +7,7 @@
       <b-img src="/logo.png" fluid alt="Logo"></b-img>
 
       <h3 class="subtitle mt-4">
-        Obten el número inmediato de la serie de Fibonacci
+        Obtén el número inmediato de la serie de Fibonacci menor igual
       </h3>
       <fibo/>
       
